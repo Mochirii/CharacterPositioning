@@ -17,3 +17,4 @@ function countIndex(charSpace) {
 return charMap
 };
 console.log(countIndex("Lighthouse in the house"));
+
